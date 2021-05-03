@@ -1,0 +1,6 @@
+[submodule "mindworms"]
+	path = mindworms
+	url = https://github.com/BRomans/mindworms.git
+[submodule "mindworms-signal-processing"]
+	path = mindworms-signal-processing
+	url = https://github.com/BRomans/mindworms-signal-processing.git
